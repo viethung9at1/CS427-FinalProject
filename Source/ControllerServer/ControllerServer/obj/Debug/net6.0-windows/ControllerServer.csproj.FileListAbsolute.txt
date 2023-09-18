@@ -1,0 +1,16 @@
+E:\CS427\Final Project\ControllerServer\ControllerServer\bin\Debug\net6.0-windows\ControllerServer.exe
+E:\CS427\Final Project\ControllerServer\ControllerServer\bin\Debug\net6.0-windows\ControllerServer.deps.json
+E:\CS427\Final Project\ControllerServer\ControllerServer\bin\Debug\net6.0-windows\ControllerServer.runtimeconfig.json
+E:\CS427\Final Project\ControllerServer\ControllerServer\bin\Debug\net6.0-windows\ControllerServer.dll
+E:\CS427\Final Project\ControllerServer\ControllerServer\bin\Debug\net6.0-windows\ControllerServer.pdb
+E:\CS427\Final Project\ControllerServer\ControllerServer\obj\Debug\net6.0-windows\ControllerServer.Form1.resources
+E:\CS427\Final Project\ControllerServer\ControllerServer\obj\Debug\net6.0-windows\ControllerServer.csproj.GenerateResource.cache
+E:\CS427\Final Project\ControllerServer\ControllerServer\obj\Debug\net6.0-windows\ControllerServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS427\Final Project\ControllerServer\ControllerServer\obj\Debug\net6.0-windows\ControllerServer.AssemblyInfoInputs.cache
+E:\CS427\Final Project\ControllerServer\ControllerServer\obj\Debug\net6.0-windows\ControllerServer.AssemblyInfo.cs
+E:\CS427\Final Project\ControllerServer\ControllerServer\obj\Debug\net6.0-windows\ControllerServer.csproj.CoreCompileInputs.cache
+E:\CS427\Final Project\ControllerServer\ControllerServer\obj\Debug\net6.0-windows\ControllerServer.dll
+E:\CS427\Final Project\ControllerServer\ControllerServer\obj\Debug\net6.0-windows\refint\ControllerServer.dll
+E:\CS427\Final Project\ControllerServer\ControllerServer\obj\Debug\net6.0-windows\ControllerServer.pdb
+E:\CS427\Final Project\ControllerServer\ControllerServer\obj\Debug\net6.0-windows\ControllerServer.genruntimeconfig.cache
+E:\CS427\Final Project\ControllerServer\ControllerServer\obj\Debug\net6.0-windows\ref\ControllerServer.dll
