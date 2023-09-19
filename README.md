@@ -6,7 +6,9 @@
 ## Introduction  
 Based on the idea of Subway Surfers, we make this game to make people relax after working and practicing his/her patient, his/her reaction.
 ## Application  
-Unity version: 2022.3.9f1
+1. Unity version: 2022.3.9f1
+2. .NET version: .NET 6
+3. Python version: Python 3.11
 ## Reference
 1. https://www.youtube.com/playlist?list=PL0WgRP7BtOez8O7UAQiW0qAp-XfKZXA9W
 2. https://www.youtube.com/watch?v=NZde8Xt78Iw
