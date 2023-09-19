@@ -15,6 +15,7 @@ namespace ControllerServer
 
     public partial class Form1 : Form
     {
+        private static Behaviour tmpBehaviour = Behaviour.NEUTRAL;
         public Form1()
         {
             InitializeComponent();
@@ -48,7 +49,7 @@ namespace ControllerServer
                 var response = Encoding.UTF8.GetString(buffer, 0, recieved);
                 Behaviour key = (Behaviour)int.Parse(response.Last().ToString());
                 IntPtr calcWindow = FindWindow(null, "Runner Wheel 3D");
-                if (calcWindow != IntPtr.Zero)
+                if (calcWindow != IntPtr.Zero && key != tmpBehaviour)
                 {
                     switch (key)
                     {
@@ -69,6 +70,7 @@ namespace ControllerServer
                                 SendKeys.SendWait("{DOWN}");
                             break;
                     }
+                    tmpBehaviour = key;
                 }
             }
         }
